@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Віртуальні середовища
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Змінні середовища та логи
+.env
+*.log
